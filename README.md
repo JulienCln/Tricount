@@ -1,6 +1,6 @@
 # Application Tricount
 
-Ce projet vise à créer une application qui reproduit les focntionnalitées principales de Tricount.
+Ce projet vise à créer une application qui reproduit les fonctionnalitées principales de Tricount.
 
 ## Technologies utilisées
 
